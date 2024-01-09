@@ -16,7 +16,7 @@ tags: [swift, ios, localization, chatgpt]
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/6a3723fd-2dab-4cd8-aa16-4b1a4971e2d3" width = 400>
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/6a3723fd-2dab-4cd8-aa16-4b1a4971e2d3" width = 400 alt = "Github App">
 
 <center>(얘는 Github App 입니다)</center>
 
@@ -61,7 +61,7 @@ localization의 순서는 간단하게 다음과 같습니다.
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/18d91919-ea2b-4196-bc80-ce35e0e05c6e">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/18d91919-ea2b-4196-bc80-ce35e0e05c6e" alt = "Localization 흐름">
 
 먼저 `Localizable.string` 파일에 “key” = “value” 형태로 **대치할 문장**들을 설정합니다. 
 어떤 말이 각 언어별로 어떻게 표현되는지를 파일에 저장하는 과정입니다.
@@ -96,13 +96,13 @@ String들이 언어 세팅이 바뀔 때마다 변할 수 있도록~~ 설정해�
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/6ac417c9-2a96-4976-9581-91df74c1d8f4">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/6ac417c9-2a96-4976-9581-91df74c1d8f4" alt = "New File → String">
 
 `New File → String` 파일을 만들어줍니다.
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/81aec39f-0327-4eea-b40f-5c16f39348bd">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/81aec39f-0327-4eea-b40f-5c16f39348bd" alt = "Localizable">
 
 이 때 주의할 점은 **절! 대! 파일명을 바꾸면 안됩**니다. 
 
@@ -110,7 +110,7 @@ String들이 언어 세팅이 바뀔 때마다 변할 수 있도록~~ 설정해�
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/11292df4-494a-4ff1-82ec-b94eae928989" width = 300>
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/11292df4-494a-4ff1-82ec-b94eae928989" width = 300 alt = "Localize...`">
 
 그러면 만들어진 `Localizable.string` 파일을 누르고, 
 오른쪽 인스펙터를 보면 `Localize...` 버튼이 보입니다. 
@@ -119,7 +119,7 @@ String들이 언어 세팅이 바뀔 때마다 변할 수 있도록~~ 설정해�
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/23b16375-947c-491c-ba86-8eefa122ee0a">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/23b16375-947c-491c-ba86-8eefa122ee0a" alt = "Project → Info → Localization">
 
 그런 다음에 `Project → Info → Localization` 에 있는 **+ 버튼**을 눌러줍니다. 
 
@@ -128,7 +128,7 @@ String들이 언어 세팅이 바뀔 때마다 변할 수 있도록~~ 설정해�
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/5bcae8e3-ca1e-4935-9862-3f4002998800">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/5bcae8e3-ca1e-4935-9862-3f4002998800" alt = ".strings 파일만 체크">
 
 저는 코드로 다국어 처리를 할 거니까요! **.strings 파일만 체크**하고 Finish 눌러줍니다.
 
@@ -146,7 +146,7 @@ String들이 언어 세팅이 바뀔 때마다 변할 수 있도록~~ 설정해�
 
 (별 거 없음 주의..)
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/fc267562-760d-4f1c-b441-d70404bca572">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/fc267562-760d-4f1c-b441-d70404bca572" alt = "localizing을 적용할 문장">
 
 
 localizing을 적용할 문장들을 적고, 사진에서와 같이 자세하게 요청을 해주면
@@ -159,7 +159,7 @@ localizing을 적용할 문장들을 적고, 사진에서와 같이 자세하게
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/90869548-78db-4c10-a228-10b9c853c473">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/90869548-78db-4c10-a228-10b9c853c473" alt = "원하는 언어로 번역">
 
 바로 이어서 이렇게 명령해봅니다. 
 
@@ -169,7 +169,7 @@ localizing을 적용할 문장들을 적고, 사진에서와 같이 자세하게
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/dc358352-23e6-4302-bea9-558d3feff1a1">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/dc358352-23e6-4302-bea9-558d3feff1a1" alt = "Localizable 파일">
 
 출력된 내용들을 각 언어에 맞는 Localizable 파일 안에 붙여넣습니다.
 
@@ -287,7 +287,7 @@ LanguageManager를 뷰컨에서 활용한 내용은 아래와 같습니다.
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/470ef326-8e4a-4f5e-bf93-1246d087a076">
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/470ef326-8e4a-4f5e-bf93-1246d087a076" alt = "LanguageManager 활용">
 
 기본 언어 설정은 ko구요.
 
@@ -336,13 +336,13 @@ struct LanguageLiterals {
 
 &nbsp;
 
-<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/fe8e693c-6f3c-4bac-906b-ff4d54ffa0b4">
+<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/fe8e693c-6f3c-4bac-906b-ff4d54ffa0b4" alt = "키의 프로퍼티 지정">
 
 오호 ㅋ
 
 &nbsp;
 
-<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/0150936e-f433-4e56-9a38-ca54a59530eb">
+<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/0150936e-f433-4e56-9a38-ca54a59530eb" alt = "끝">
 LanguageLiterals를 사용하면 이렇게 자동 완성이 되는 효과를!!! 😉
 
 &nbsp;
@@ -359,7 +359,7 @@ LanguageLiterals를 사용하면 이렇게 자동 완성이 되는 효과를!!! 
 
 &nbsp;
 
-<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/8af82af6-416e-495e-be17-8f3bf7219d4e" width = 300>
+<img src = "https://github.com/Ajou-FromUS/ToME-iOS/assets/79050615/8af82af6-416e-495e-be17-8f3bf7219d4e" width = 300 alt = "감자">
 
 <center>기요미 감자 사진으로 마무리합니다 ㅋ ✨</center>
 
