@@ -85,11 +85,6 @@ blockquote {
   border-left: 5px solid var(--blockquote-border-color);
   padding-left: 1rem;
   color: var(--blockquote-text-color);
-  display: flex;
-
-  > p:last-child {
-    margin-bottom: 0;
-  }
 
   &[class^='prompt-'] {
     border-left: 0;
@@ -107,6 +102,10 @@ blockquote {
       margin-top: 0.4rem;
       text-rendering: auto;
       -webkit-font-smoothing: antialiased;
+    }
+
+    > p:last-child {
+      margin-bottom: 0;
     }
   }
 
@@ -552,8 +551,7 @@ main {
 
   @extend %rounded;
 
-  &.youtube,
-  &.bilibili {
+  &.youtube {
     aspect-ratio: 16 / 9;
   }
 
@@ -642,12 +640,12 @@ main {
 
 .left {
   float: left;
-  margin: 0.75rem 1rem 1rem 0;
+  margin: 0.75rem 1rem 1rem 0 !important;
 }
 
 .right {
   float: right;
-  margin: 0.75rem 0 1rem 1rem;
+  margin: 0.75rem 0 1rem 1rem !important;
 }
 
 /* --- Overriding --- */
@@ -715,8 +713,8 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 7rem;
-    height: 7rem;
+    width: 6rem;
+    height: 6rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -742,22 +740,25 @@ $btn-mb: 0.5rem;
   .site-title {
     font-family: inherit;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.3rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
+    text-align: center;
 
     a {
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
       color: var(--site-title-color);
+      
     }
   }
 
   .site-subtitle {
-    font-size: 95%;
+    font-family: inherit;
+    font-size: 80%;
     color: var(--site-subtitle-color);
     margin-top: 0.25rem;
     word-spacing: 1px;
@@ -765,6 +766,7 @@ $btn-mb: 0.5rem;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    text-align: center;
   }
 
   ul {
@@ -780,6 +782,7 @@ $btn-mb: 0.5rem;
         @include pt-pb(0.6rem);
 
         display: flex;
+        flex-direction: column;
         align-items: center;
         border-radius: 0.75rem;
         font-weight: 600;
@@ -1363,7 +1366,10 @@ search {
 
   #sidebar {
     .profile-wrapper {
+      display: flex;
       margin-top: 3rem;
+      align-items: center;
+      flex-direction: column;
     }
   }
 
@@ -1515,6 +1521,8 @@ search {
       margin-top: 3.5rem;
       margin-bottom: 2.5rem;
       padding-left: 3.5rem;
+      text-align: center;
+      flex-direction: column;
     }
 
     ul {

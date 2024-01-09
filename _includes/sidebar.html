@@ -20,7 +20,7 @@
     <h1 class="site-title">
       <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
     </h1>
-    <p class="site-subtitle fst-italic mb-0">{{ site.tagline }}</p>
+    <p class="site-nav-item-normal mb-0" style="font-size: 14px;">{{ site.tagline }}</p> <!-- 서브 타이틀 기울기 취소 -->
   </header>
   <!-- .profile-wrapper -->
 
@@ -29,7 +29,7 @@
       <!-- home -->
       <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
         <a href="{{ '/' | relative_url }}" class="nav-link">
-          <i class="fa-fw fas fa-home"></i>
+          <!-- <i class="fa-fw fas fa-home"></i> 아이콘 없애기 -->  
           <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
         </a>
       </li>
@@ -37,7 +37,7 @@
       {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
-            <i class="fa-fw {{ tab.icon }}"></i>
+            <!-- <i class="fa-fw {{ tab.icon }}"></i> -->
             {% capture tab_name %}{{ tab.url | split: '/' }}{% endcapture %}
 
             <span>{{ site.data.locales[include.lang].tabs.[tab_name] | default: tab.title | upcase }}</span>
