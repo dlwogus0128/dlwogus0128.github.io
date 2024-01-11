@@ -1,6 +1,6 @@
 ---
 title: "[iOS - Swift] 봄이도 좋아하는 Vision으로 포차코 페이스 필터 만들기"
-date: 2023-01-10 15:00:00 +09:00
+date: 2023-01-11 08:00:00 +09:00
 categories: [iOS, Swift]
 tags: [swift, ios, vision, face filter, face tracking] 
 ---
@@ -581,11 +581,11 @@ private func savePhoto() {
 }
 ```
 
-- **현재 프레임**을 가지고 UIImage를 생성함
+- **현재 프레임**을 가지고 `UIImage` 를 생성함
     - **currentSampleBuffer**에서 **imageBuffer**를 가져와 이를 `CIImage` 로 변환, 이를 `UIImage` 로 다시 생성    
     (`CMSampleBuffer` 에서 직접 `UIImage` 를 생성하는 방법이 불가능하므로)
 - `UIGraphicsImageRenderer` 로 새 이미지 렌더링
-    - 렌더링하면서 비율 유지, **previewLayer 화면에 보이는 부분을 잘라내** 새로운 이미지 생성
+    - 전체 영상 화면에서 **previewLayer 화면에 보이는 부분을 잘라내** 새로운 이미지 생성
 - 이미지 저장, 저장이 완료되면 **saveImage** 호출됨
 
 &nbsp;
@@ -601,7 +601,27 @@ private func savePhoto() {
 }
 ```
 
-이미지가 성공적으로 저장될 경우, 살짝 토스트 메세지를 띄우는 부분까지 구현했습니닷 (안해도 됨)
+이미지가 성공적으로 저장될 경우, 살짝 토스트 메세지를 띄워주었습니다 (안해도 됨)
+
+&nbsp;
+
+***
+
+## 결과물
+
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/804816e0-7711-4e37-9d96-cae3de9eaa1e" width = 300 alt = "결과물">
+<center>짜잔~~</center>
+
+&nbsp;
+
+요렇게 조촐하게.. 마무리했습니다 .. 🥹
+
+촬영 버튼을 누르면 저장이 댑니다!!!
+
+&nbsp;
+
+<img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/17ea032e-eb45-4106-b4aa-1993c46c0743" width = 300 alt = "테스트의 흔적..">
+<center>테스트의 흔적 ... </center>
 
 &nbsp;
 
@@ -611,6 +631,26 @@ private func savePhoto() {
 
 &nbsp;
 
+이렇게 오늘은 Swift `Vision` 의 **얼굴 감지 기능**을 이용해
+
+포차코 필터를 만들어 보았는데요 😅
+
+처음 해보는 부분이라 오류가 많을 수도 있고, 
+
+찾아보니 더 간단하게 구현하신 분들도 있는 것 같았습니다.
+
+그러니 .. 잘못된 부분이 있다면 댓글 남겨주세요 😉✨
+
+&nbsp;
+
 <img src = "https://github.com/dlwogus0128/swift-example/assets/79050615/934931cf-82dc-496b-8dab-fb565dd2beb2" width = 300 alt = "귀여운 봄이">
 
-<center>봄이도 포차코 필터를 좋아해~~🤍</center>
+<center>봄이도 포차코 필터를 좋아해~~😙</center>
+
+&nbsp;
+
+[🏅 전체 코드 살펴보기](https://github.com/dlwogus0128/swift-example.git)
+
+[🌿 참고 자료](https://gist.github.com/banjodayo39/aad8fef3cb5b88dd0b405a79087cd325)
+
+[💻 공식 문서](https://developer.apple.com/documentation/vision/)
