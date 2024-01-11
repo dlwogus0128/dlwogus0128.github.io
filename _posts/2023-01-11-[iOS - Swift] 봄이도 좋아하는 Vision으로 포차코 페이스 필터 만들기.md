@@ -349,7 +349,8 @@ private func setUpPreviewLayer() {
 - 그리고 previewLayer를 view에 **add**
 &nbsp;
 - 아까 input에 넣을 videoDevice를 설정한 것처럼, previewLayer에 띄울 **videoDataOutput**을 설정
-    - `.videoSettings` 에서 출력 비디오의 형식을 설정 (저는 32bit BGRA 형식으로 설정한 건데, 일반적으로 이 형식을 사용한다 합니다.)
+    - `.videoSettings` 에서 출력 비디오의 형식을 설정  
+    (저는 32bit BGRA 형식으로 설정한 건데, 일반적으로 이 형식을 사용한다 합니다.)
     - `.setSampleBufferDelegate` 으로 비디오 출력에 관련한 `sampleBuffer` 를 처리하기 위한 **delegate 설정**
 
 &nbsp;
