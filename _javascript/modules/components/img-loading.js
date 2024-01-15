@@ -11,7 +11,7 @@ const cover = {
 };
 
 function removeCover(clzss) {
-  $(this).parent().removeClass(clzss);
+  // $(this).parent().removeClass(clzss);
 }
 
 function handleImage() {
@@ -19,11 +19,11 @@ function handleImage() {
     return;
   }
 
-  if (this.hasAttribute(ATTR_DATA_LQIP)) {
-    removeCover.call(this, cover.BLUR);
-  } else {
-    removeCover.call(this, cover.SHIMMER);
-  }
+  // if (this.hasAttribute(ATTR_DATA_LQIP)) {
+  //   removeCover.call(this, cover.BLUR);
+  // } else {
+  //   removeCover.call(this, cover.SHIMMER);
+  // }
 }
 
 /**
@@ -47,7 +47,7 @@ export function loadImg() {
   // Images loaded from the browser cache do not trigger the 'load' event
   $('article img[loading="lazy"]').each(function () {
     if (this.complete) {
-      removeCover.call(this, cover.SHIMMER);
+      removeCover.call(this, cover.BLUR);
     }
   });
 
