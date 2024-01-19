@@ -1113,8 +1113,6 @@ func setTypingIndicator(isHidden: Bool) {
 &nbsp;
 
 <img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/f42f38f1-7bbc-4548-ab5c-8617dc2bbf1a" width = 300 alt = "">
-
-<!-- <img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/bcbc10a1-b3f3-4b6c-b389-a6a1cbb658ec" width = 500 alt = ""> -->
 <center>(귀여운 내 덩생ㅋ)</center>
 
 &nbsp;
