@@ -29,7 +29,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/11c95a15-8e20-4bee-ae28-ce72b525fe1a" width = 300>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/11c95a15-8e20-4bee-ae28-ce72b525fe1a" width = 300 alt = "">
 <center>(슬램덩크 12391094번 관람한 동생..)</center>
 
 
@@ -47,7 +47,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/420615ea-e670-4876-b64f-97569c63342b">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/420615ea-e670-4876-b64f-97569c63342b" alt = "">
 
 &nbsp;
 
@@ -83,7 +83,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/2a9f9058-532f-4377-8204-b51328026b63">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/2a9f9058-532f-4377-8204-b51328026b63" alt = "">
 <center>(별 거 없음 주의)</center>
 
 &nbsp;
@@ -123,7 +123,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/837c2c1e-eed3-4a04-ad09-c4879f46dd92" width = 300>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/837c2c1e-eed3-4a04-ad09-c4879f46dd92" width = 300 alt = "">
 
 &nbsp;
 
@@ -159,7 +159,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/3031f3ae-ce00-4f1b-bf75-83359a2169aa">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/3031f3ae-ce00-4f1b-bf75-83359a2169aa" alt = "">
 
 &nbsp;
 
@@ -183,7 +183,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/91fafc7e-694d-4e6f-a324-a878920f00c1" width = 400>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/91fafc7e-694d-4e6f-a324-a878920f00c1" width = 400 alt = "">
 
 &nbsp;
 
@@ -201,7 +201,7 @@ Chat GPT의 등장으로 전세계가 시끌벅적해지고 ..
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/561990da-5008-4666-b59b-5d65e03d22a6" width = 400>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/561990da-5008-4666-b59b-5d65e03d22a6" width = 400 alt = "">
 
 &nbsp;
 
@@ -380,7 +380,7 @@ private func setLayout() {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/8dbc9e7a-5d23-441b-a627-e7ab27b63f54">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/8dbc9e7a-5d23-441b-a627-e7ab27b63f54" alt = "">
 
 &nbsp;
 
@@ -600,7 +600,7 @@ extension JDMTalkVC: MessagesDisplayDelegate {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/4812c73f-d689-45d9-8cf9-a3e410b67c92">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/4812c73f-d689-45d9-8cf9-a3e410b67c92" alt = "">
 
 &nbsp;
 
@@ -741,7 +741,7 @@ private func insertNewMessage(_ message: MessageModel) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6cab9b0a-a181-4c0b-b22e-4e9fe1b58d72">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6cab9b0a-a181-4c0b-b22e-4e9fe1b58d72" alt = "">
 
 &nbsp;
 
@@ -759,7 +759,7 @@ private func insertNewMessage(_ message: MessageModel) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/565d6419-5dbc-434b-873f-df1693e2fae1">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/565d6419-5dbc-434b-873f-df1693e2fae1" alt = "">
 
 &nbsp;
 
@@ -771,7 +771,7 @@ private func insertNewMessage(_ message: MessageModel) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/eac03947-8b75-48f0-bc7f-f6438d6ef7a4" width = 500>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/eac03947-8b75-48f0-bc7f-f6438d6ef7a4" width = 500 alt = "">
 
 &nbsp;
 
@@ -799,7 +799,7 @@ private func insertNewMessage(_ message: MessageModel) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6e7699b2-38b1-4f7e-a618-bdeacdfce5aa">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6e7699b2-38b1-4f7e-a618-bdeacdfce5aa" alt = "">
 
 &nbsp;
 
@@ -851,7 +851,7 @@ private func insertNewMessage(_ message: MessageModel) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/bdaab934-a7d7-441b-8923-b61981dfc97b">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/bdaab934-a7d7-441b-8923-b61981dfc97b" alt = "">
 
 &nbsp;
 
@@ -917,7 +917,7 @@ private func sendChatMessage(message: String) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/04c88a82-22e5-4cb0-81d2-fd99cbc839a7" width = 700>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/04c88a82-22e5-4cb0-81d2-fd99cbc839a7" width = 700 alt = "">
 
 &nbsp;
 
@@ -973,7 +973,7 @@ Swift는 **여러 스레드들**이 동시에 함수나 연산자에 접근을 �
 
 **요청을 보낼 때**와 **응답이 도착했을 때** 호출한 `setTypingIndicator` 는요...
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/1a3eca04-7cd2-44ea-bda9-21ae9f5583ad" width = 100>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/1a3eca04-7cd2-44ea-bda9-21ae9f5583ad" width = 100 alt = "">
 
 &nbsp;
 
@@ -1004,55 +1004,55 @@ func setTypingIndicator(isHidden: Bool) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/cdd87a14-d42a-444d-b309-9b59e1d2682e">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/cdd87a14-d42a-444d-b309-9b59e1d2682e" alt = "">
 
 `Bundle Identifier` 랑 `Version` 다 확인해주고~
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/ca13681d-2543-45b6-b58a-dc024ee3806f">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/ca13681d-2543-45b6-b58a-dc024ee3806f" alt = "">
 
 `Edit Scheme...` 눌러주세용
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/890ccfbd-4689-4619-bb9f-5b4fe016c146">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/890ccfbd-4689-4619-bb9f-5b4fe016c146" alt = "">
 
 요런 창이 뜨는데, `Release` 로 설정해주세요!
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/7089405b-6a07-43ea-b9ec-59bb9c4c6d3f">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/7089405b-6a07-43ea-b9ec-59bb9c4c6d3f" alt = "">
 
 그리고 `Simulator` 를 `Any iOS Device` 로 설정해주세욥
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/a3b162e7-94fc-4e28-bed7-01b1350a1a77">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/a3b162e7-94fc-4e28-bed7-01b1350a1a77" alt = "">
 
 이후 `Product` → `Archive` 를 누르면
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/27061653-93c2-4fc3-aae5-014f4b920dd8">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/27061653-93c2-4fc3-aae5-014f4b920dd8" alt = "">
 
 배포할 버전을 선택해 `Distribute App` 을 진행합니당 
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/1de8778c-97d1-4c39-a574-eab5513ffa1c">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/1de8778c-97d1-4c39-a574-eab5513ffa1c" alt = "">
 
 마지막으로 `TestFlight & App Store` 를 선택해 `distribute` 하면~~
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/fd7c2c2b-2806-4918-9153-85dbf2dfbc79">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/fd7c2c2b-2806-4918-9153-85dbf2dfbc79" alt = "">
 
 도로롱~~🧚🏻
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/352a15c3-6199-48b0-bbe3-8d54dcdbc3e0">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/352a15c3-6199-48b0-bbe3-8d54dcdbc3e0" alt = "">
 
 `App Store Connect` 에 이렇게 제 앱이 올라갑니다!
 
@@ -1068,7 +1068,7 @@ func setTypingIndicator(isHidden: Bool) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6e1c636a-5fde-4cd6-b2a2-44c4aaf673c2" width = 600>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/6e1c636a-5fde-4cd6-b2a2-44c4aaf673c2" width = 600 alt = "">
 
 이거 그냥 `Target` → `General` → `Support Desination` 에서 **iPad랑 Mac** 없애주면 됩니다 😅
 
@@ -1078,7 +1078,7 @@ func setTypingIndicator(isHidden: Bool) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/fb07ecd9-763f-421b-9fee-179cb3aac0a9">
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/fb07ecd9-763f-421b-9fee-179cb3aac0a9" alt = "">
 
 `App Store Connect` 의 `사용자 및 액세스` 에 사용자 추가해서!! 
 
@@ -1092,7 +1092,7 @@ func setTypingIndicator(isHidden: Bool) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/2b65686a-8e8f-476d-b08e-d6cd4818703a" width = 300>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/2b65686a-8e8f-476d-b08e-d6cd4818703a" width = 300 alt = "">
 
 &nbsp;
 
@@ -1112,9 +1112,9 @@ func setTypingIndicator(isHidden: Bool) {
 
 &nbsp;
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/f42f38f1-7bbc-4548-ab5c-8617dc2bbf1a" width = 300>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/f42f38f1-7bbc-4548-ab5c-8617dc2bbf1a" width = 300 alt = "">
 
-<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/bcbc10a1-b3f3-4b6c-b389-a6a1cbb658ec" width = 500>
+<img src = "https://github.com/dlwogus0128/JDMTalk-iOS/assets/79050615/bcbc10a1-b3f3-4b6c-b389-a6a1cbb658ec" width = 500 alt = "">
 <center>(귀여운 내 덩생ㅋ)</center>
 
 &nbsp;
