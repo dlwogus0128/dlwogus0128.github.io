@@ -1,6 +1,6 @@
 ---
 title: "[iOS - Swift] 감자도 따라하는 Localization (feat. Chat GPT)"
-date: 2023-01-05 15:00:00 +09:00
+date: 2024-01-05 15:00:00 +09:00
 categories: [iOS, Swift]
 tags: [swift, ios, localization, chatgpt] 
 ---

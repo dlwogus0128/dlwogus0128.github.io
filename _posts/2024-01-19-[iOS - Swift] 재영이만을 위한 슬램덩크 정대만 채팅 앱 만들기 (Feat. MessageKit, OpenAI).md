@@ -1,6 +1,6 @@
 ---
 title: "[iOS - Swift] 재영이만을 위한 슬램덩크 정대만 채팅 앱 만들기 (Feat. MessageKit, OpenAI)"
-date: 2023-01-19 21:00:00 +09:00
+date: 2024-01-19 21:00:00 +09:00
 categories: [iOS, Swift]
 tags: [swift, ios, chat, messagekit, openai, chatgpt, slamdunk, chatbot] 
 ---
