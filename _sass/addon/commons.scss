@@ -732,7 +732,7 @@ $btn-mb: 0.5rem;
     @include mt-mb(2.5rem);
     @extend %clickable-transition;
 
-    padding-left: 2.5rem;
+    padding-left: 1.25rem;
     padding-right: 1.25rem;
     width: 100%;
   }
@@ -1520,7 +1520,7 @@ search {
     .profile-wrapper {
       margin-top: 3.5rem;
       margin-bottom: 2.5rem;
-      padding-left: 3.5rem;
+      padding-left: 1.25rem;
       text-align: center;
       flex-direction: column;
     }
